@@ -54,3 +54,65 @@ This image is a **pizza sales report** created by **Shubham Maurya** for the per
 
 ### **📌 Summary:**  
 This report provides a **detailed breakdown of pizza sales**, highlighting **peak sales periods, customer preferences, and revenue distribution** across different pizza categories and sizes.  
+###Part - 2
+focusing on the **Supreme Pizza category** for the period **January 27 to December 9, 2015**. It provides insights into revenue, order trends, and best-selling pizzas.  
+
+### **🔹 Key Metrics:**  
+✅ **Total Revenue:** **182.62K**  
+✅ **Total Pizzas Sold:** **11K**  
+✅ **Total Orders:** **8K**  
+✅ **Average Order Value:** **22.91**  
+✅ **Average Pizzas Per Order:** **1.32**  
+
+### **🍕 Best & Worst Sellers:**  
+🔹 **Best Seller by Revenue:** **Thai Chicken Pizza**  
+🔹 **Best Seller by Quantity:** **Classic Deluxe Pizza**  
+🔹 **Worst Seller by Revenue:** **Brie Carr Pizza**  
+🔹 **Worst Seller by Quantity:** **Brie Carrie Pizza**  
+
+### **📊 Top 5 Pizzas by Revenue:**  
+1️⃣ **Spinach Pizza:** **31K**  
+2️⃣ **Italian Pizza:** **29K**  
+3️⃣ **Sicilian Pizza:** **27K**  
+4️⃣ **Pepperoni Pizza:** **22K**  
+5️⃣ **Prosciutto Pizza:** **21K**  
+
+### **📊 Top 5 Pizzas by Quantity:**  
+1️⃣ **Spinach Pizza:** **1.7K**  
+2️⃣ **Sicilian Pizza:** **1.7K**  
+3️⃣ **Italian Pizza:** **1.6K**  
+4️⃣ **Prosciutto Pizza:** **1.3K**  
+5️⃣ **Pepperoni Pizza:** **1.3K**  
+
+### **📅 Top 5 Months for Orders:**  
+✅ **July:** **815 orders**  
+✅ **May:** **787 orders**  
+✅ **June:** **784 orders**  
+✅ **November:** **784 orders**  
+✅ **April:** **777 orders**  
+
+### **📉 Bottom 5 Pizzas by Revenue:**  
+🔹 **Prosciutto Pizza:** **21K**  
+🔹 **Soppressata Pizza:** **15K**  
+🔹 **Calabrese Pizza:** **14K**  
+🔹 **Spinach Pizza:** **10K**  
+🔹 **Brie Carr Pizza:** **10K**  
+
+### **📉 Bottom 5 Pizzas by Quantity:**  
+🔹 **Pepperoni Pizza:** **1257**  
+🔹 **Soppressata Pizza:** **853**  
+🔹 **Calabrese Pizza:** **834**  
+🔹 **Spinach Pizza:** **833**  
+🔹 **Brie Carr Pizza:** **437**  
+
+### **📉 Bottom 5 Months for Orders:**  
+🔹 **Pepperoni Pizza:** **1201 orders**  
+🔹 **Soppressata Pizza:** **834 orders**  
+🔹 **Calabrese Pizza:** **818 orders**  
+🔹 **Spinach Pizza:** **803 orders**  
+🔹 **Brie Carr Pizza:** **429 orders**  
+
+### **📌 Summary:**  
+This report provides a **detailed breakdown of Supreme Pizza sales**, highlighting **top-performing pizzas, peak sales months, and customer preferences**.  
+
+
